@@ -8,7 +8,6 @@ Before use pyttsx, we need install lib:
 
 ```
 	pip install pyttsx
-
 ```
 
 There are three voices belongs to Chinese
